@@ -1,3 +1,6 @@
+body {
+  background-color: rgb(126, 126, 190);
+}
 #text-output {
   min-height: 200px;
   border-radius: 3px;
